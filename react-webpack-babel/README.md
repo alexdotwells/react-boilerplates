@@ -9,7 +9,6 @@ A basic template that consists of the essential elements that are required to st
 
    ```bash
    npm install
-   npm dedupe
    ```
 
 ### Build
